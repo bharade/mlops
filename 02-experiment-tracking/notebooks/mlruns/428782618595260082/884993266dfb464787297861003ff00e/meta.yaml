@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/notebooks/mlruns/428782618595260082/884993266dfb464787297861003ff00e/artifacts
+end_time: 1737456599467
+entry_point_name: ''
+experiment_id: '428782618595260082'
+lifecycle_stage: active
+run_id: 884993266dfb464787297861003ff00e
+run_name: magnificent-wasp-590
+run_uuid: 884993266dfb464787297861003ff00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737456588620
+status: 3
+tags: []
+user_id: codespace

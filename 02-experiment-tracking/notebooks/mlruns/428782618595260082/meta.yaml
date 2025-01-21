@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops/02-experiment-tracking/notebooks/mlruns/428782618595260082
+creation_time: 1737456251428
+experiment_id: '428782618595260082'
+last_update_time: 1737456251428
+lifecycle_stage: active
+name: my first experiment

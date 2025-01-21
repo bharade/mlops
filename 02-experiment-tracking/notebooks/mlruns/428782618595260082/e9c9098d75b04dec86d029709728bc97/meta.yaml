@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment-tracking/notebooks/mlruns/428782618595260082/e9c9098d75b04dec86d029709728bc97/artifacts
+end_time: 1737456555753
+entry_point_name: ''
+experiment_id: '428782618595260082'
+lifecycle_stage: active
+run_id: e9c9098d75b04dec86d029709728bc97
+run_name: rebellious-frog-649
+run_uuid: e9c9098d75b04dec86d029709728bc97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737456555740
+status: 4
+tags: []
+user_id: codespace
